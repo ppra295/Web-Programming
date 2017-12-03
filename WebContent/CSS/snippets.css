@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+body{
+     
+ 	background-color: pink;
+ 	
+}
+
+h2 { 
+	font-size: 30px;
+	font-family: serif;
+    text-align: center;
+}
+
+a{
+    font-size: 15px;
+    font-family: serif;
+}
+
+label{
+	margin: 0;
+    padding: 8px;
+    float: right;
+}
+
+.form-control {
+    height: auto;
+    padding: 8px 10px;
+    
+    
+}
+
+.align-center {
+    margin-top: 30px;;
+    text-align:center;
+    margin-bottom: 30px;
+}
